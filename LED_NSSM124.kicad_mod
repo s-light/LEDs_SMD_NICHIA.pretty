@@ -48,7 +48,7 @@
   (pad RC smd rect (at -1.675 1.1) (size 1.15 0.85) (layers F.Cu F.Paste F.Mask))
   (pad GC smd rect (at -1.675 0) (size 1.15 0.85) (layers F.Cu F.Paste F.Mask))
   (pad BC smd rect (at -1.675 -1.1) (size 1.15 0.85) (layers F.Cu F.Paste F.Mask))
-  (model C:/_Local_DATA/_projects/_KiCAD/myPartLib/NICHIA_NSSM124.pretty/NICHIA_NSSM124_3D.wrl
+  (model /home/stefan/_LocalData/projects/_KiCAD/myPartLib/LEDs_SMD_NICHIA.3dshapes/LED_NSSM124.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
