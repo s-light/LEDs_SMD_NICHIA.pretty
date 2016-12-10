@@ -1,6 +1,7 @@
 (module LED_NSSM032AT (layer F.Cu) (tedit 56CF4E02)
   (descr http://www.nichia.co.jp/en/product/led_product_data.html?type=%27NSSM032A%27)
   (tags "NICHIA, SMD, LED, RGB, Display, White-Binning,")
+  (attr smd)
   (fp_text reference REF** (at 0 -3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

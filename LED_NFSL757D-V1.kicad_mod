@@ -1,6 +1,7 @@
 (module LED_NFSL757D-V1 (layer F.Cu) (tedit 56CF3AA7)
   (descr http://www.nichia.co.jp/en/product/led_product_data.html?type=%27NFSL757D-V1%27)
   (tags "NICHIA, SMD, LED, White,")
+  (attr smd)
   (fp_text reference REF** (at 0 -2.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
