@@ -1,6 +1,6 @@
 (module LED_NSSM124_wViaHeatSinkBig (layer F.Cu) (tedit 59A92EA0)
   (descr http://www.nichia.co.jp/en/product/led_product_data.html?type=%27NSSM124%27)
-  (tags "LED RGB SMD NICHIA NSSM124 HeatSink Via")
+  (tags "LED RGB SMD NICHIA NSSM124 White-Binning HeatSink Via")
   (attr smd)
   (fp_text reference REF** (at 0 -2.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
