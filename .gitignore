@@ -1,5 +1,5 @@
 # exclude original datasheets from manufacture
-datasheets_orig/
+datasheets/
 
 # FreeCad backupfiles
 *.fcstd1
